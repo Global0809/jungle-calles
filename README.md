@@ -8,4 +8,4 @@ This repository contains the static website served by GitHub Pages from the `mai
 
 The experience adapts [ThreeUI's Kage source](https://threeui.com/landing-pages/kage.html), with the artist content and stage world customized for this site. The original Kage document is retained at `landing-pages/kage.html`.
 
-The performers are stylized illustrations; their appearances are not portraits of Jorge or verified crew members.
+The performers are stylized illustrations; their appearances are not portraits of Jorge or verified crew members. The social cards use original generated concert artwork, served as responsive WebP images, rather than distorted 3D previews. This artwork is illustrative and is not photography of Jorge or his crew.
